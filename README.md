@@ -2,10 +2,10 @@
 
 **Clash Royale Data Converter and Organizer**
 
-This Python script is the result of a unique approach to software development, leveraging social engineering to harness the capabilities of AI. Crafted by leveraging ChatGPT, an AI language model, this script streamlines Clash Royale data management and analysis. It first retrieves player data from the RoyaleAPI, storing it in a JSON file for comprehensive representation. Subsequently, the JSON data is converted into a CSV file, enabling seamless formatting and manipulation with tools like Google Sheets or Excel. The script further organizes the CSV data into a systematic folder directory, enhancing accessibility and management. Timestamps are added to each dataset, providing a clear timeline of data retrieval.
+This Python script is the result of a unique approach to software development. Crafted by leveraging ChatGPT, an AI language model, this script streamlines Clash Royale data management and analysis. It first retrieves player data from the RoyaleAPI, storing it in a JSON file for comprehensive representation. Subsequently, the JSON data is converted into a CSV file, enabling seamless formatting and manipulation with tools like Google Sheets or Excel. The script further organizes the CSV data into a systematic folder directory, enhancing accessibility and management. Timestamps are added to each dataset, providing a clear timeline of data retrieval.
 
 **Features:**
-- Created through social engineering with ChatGPT, an AI language model.
+- Created with ChatGPT, an AI language model.
 - Fetches player data from the RoyaleAPI for Clash Royale.
 - Stores data in a JSON file for comprehensive representation.
 - Converts JSON data into a CSV file for easy formatting and manipulation.
