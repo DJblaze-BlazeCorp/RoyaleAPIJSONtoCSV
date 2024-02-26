@@ -1,0 +1,11 @@
+Ensure you have the correct API key when using the script.
+
+Get your IPv4 address from a reliable source such as WhatIsMyIP (https://www.whatismyip.com/).
+
+Generate your own API key by visiting the Clash Royale Developer portal here: https://developer.clashroyale.com/#/.
+
+In the script, only edit the 'KEY' variable to input your generated API key. Failure to do so might result in the script not functioning correctly.
+
+The script contains a randomly generated key, which won't work on your computer unless you replace it with your properly generated key.
+
+Feel free to customize the script to suit your needs, but ensure that the API key is correctly entered for proper functionality.
